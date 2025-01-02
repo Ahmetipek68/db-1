@@ -1,1 +1,1 @@
-# db-1
+Projemin ismi Film inceleme Uygulamasıdır.Bu projede kullanıcıların filmleri izlemeden hakkında bilgi almaları, yorum yapmaları ve puanlama yaparak film önerileri almalarını sağlayan bir web sitesidir.
